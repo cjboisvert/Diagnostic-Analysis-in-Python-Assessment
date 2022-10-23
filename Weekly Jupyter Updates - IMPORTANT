@@ -1,0 +1,30 @@
+The following are my weekly updates, which is the summary I wrote at the end of each week. 
+
+I elected NOT To upload my weekly Jupyter notebook to GitHub until now as the assessment rubric dictates we must keep this project public 
+for the duration of the assignment. 
+
+To avoid plagiarism, I did not upload my Jupyter notebook until the assessment submission. 
+
+My weekly summaries are as follows. 
+
+Week 2:
+These results will be important in the essay, the best way to display them would probably be to use a table. 
+There are very few trends to see at this stage, but I suspect interesting insights will be found in the service settings, context types, 
+and national categories when I start investigating them further.  
+
+Week 3: 
+There are some important discrepancies between dataframes that will need to be factored into analysis in future. 
+Nevertheless, it seems most analysis is conducted in the NC dataframe. All of the most popular locations are in the South of England 
+and the least popular are in the North West of England. This could be an interesting area to look into later. 
+
+Week 4:
+August is the busiest period, we can also see spikes in appointments being the busiest on Monday to Wednesday, then slowing down later in the week. National Categories are interesting, as there are so many it is difficult to decipher a trend. Note to self, investigate what NC types mean as it's hard to understand at the moment. 
+
+Week 5:
+This week we explored Tweets, as though we had downloaded them using the API. We can see that there is a high level of engagement in NHS-related tweets given how frequently they occur within the top 30. This means that the NHS could use Twitter as a means of communicating with patients about important messages, such as missed appointments. Will be interesting to see what they can say. 
+
+
+Week 6:
+This week we investigated the main questions posed by the NHS. Capacity utilisation was explored in the most detail, but we also investigated when appointments were missed. I generated a few extra charts to support in visualisation especially regarding missed appointments. 
+SOMETHING TO NOTE:
+It's difficult to determine if the NHS are understaffed, because all we have to go on is the daily capacity, but that doesn't specify staff numbers? There is no data in any of the DFs that show anything pertaining to staff numbers. 
